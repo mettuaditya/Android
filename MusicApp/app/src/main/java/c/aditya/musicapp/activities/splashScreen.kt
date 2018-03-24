@@ -1,4 +1,4 @@
-package c.aditya.musicapp
+package c.aditya.musicapp.activities
 
 import android.Manifest
 import android.content.Context
@@ -9,7 +9,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.support.v4.app.ActivityCompat
 import android.widget.Toast
-import java.security.KeyStore
+import c.aditya.musicapp.R
 
 class splashScreen : AppCompatActivity() {
 
